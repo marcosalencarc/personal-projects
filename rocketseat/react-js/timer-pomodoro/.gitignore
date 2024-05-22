@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 
-*-lock.json
+package-lock.json
